@@ -1,2 +1,2 @@
-# productivity-hacksw
+# productivity-hacks
 Various scripts for productivity tools
